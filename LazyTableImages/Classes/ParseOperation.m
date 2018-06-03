@@ -3,7 +3,7 @@
  See LICENSE.txt for this sample’s licensing information
  
  Abstract:
- NSOperation subclass for parsing the RSS feed.
+ NSOperation subclass for parsing the RSS feed. 
  */
 
 #import "ParseOperation.h"
